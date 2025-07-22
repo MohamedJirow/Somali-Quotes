@@ -1,9 +1,9 @@
 const maahmaahyo = [
-  "1. Geel laba jir ma kala ordo.",
+  "1. Geel laba jir soo wada mar.",
   "2. War la helay xumo ma leh.",
-  "3. Nin aan shaqaysan shilin ma helo.",
+  "3. Niman shaqeysan shax waa ka xaran.",
   "4. Gari laba nin kama wada qosliso.",
-  "5. Dab kaa qaaday ilayn laguu sitaa.",
+  "5. Nimad dhashay kuma dhalin.",
   "6. Nin xil qaaday eed qaad.",
   "7. Nimaan dhididin ma dhergo.",
   "8. Meel adag laguma nasto.",
